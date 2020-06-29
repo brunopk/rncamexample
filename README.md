@@ -1,4 +1,4 @@
-#  RNCamExample
+#  RNCamera Example
 
 [React native camera](https://react-native-community.github.io/react-native-camera/docs/rncamera) example.
 
