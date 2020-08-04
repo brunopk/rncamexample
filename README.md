@@ -19,3 +19,11 @@
 
 
 > `pod` ([CocoaPod](https://cocoapods.org/)) is a command to manage dependencies for Swift and Objective-C. It can be installed with `sudo gem install cocoapods` (don't install it with `brew`). Also, Command Line Tools and XCode IDE is required.
+
+## Throubleshoting
+
+Sometimes firewall can block connections to the Metro server. Try running it on different port (default port is 8081):
+
+`npx react-native run-android --port=8082`
+
+> To test the Metro server just open http:\\localhost:8081
