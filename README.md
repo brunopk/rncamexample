@@ -26,4 +26,4 @@ Sometimes firewall can block connections to the Metro server. Try running it on 
 
 `npx react-native run-android --port=8082`
 
-> To test the Metro server just open http:\\localhost:8081
+> To test the Metro server just open http://localhost:8081
